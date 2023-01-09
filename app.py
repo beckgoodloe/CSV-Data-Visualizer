@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 from matplotlib.figure import Figure
 from matplotlib.backends.backend_tkagg import (FigureCanvasTkAgg, NavigationToolbar2Tk)
 
-TESTING = False
+TESTING = True
 ROW = 23
 PLOT_ROW = 3 
 AB_FLOW_THRESH = 1 # gph
